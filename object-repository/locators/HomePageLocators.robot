@@ -4,4 +4,4 @@ Get Category Locator By Name [Arguments] ${categoryName}
 	...  Get category locator by name  ...
     
     ${categoryLocator}   Set Variable   xpath=//a[@id='itemc' and text()='${categoryName}']
-    Return from keyword    ${categoryLocator}
+    [Return]        ${categoryLocator}

@@ -8,8 +8,8 @@ ${LARGE_RETRY_COUNT}           5x
 ${RETRY_DELAY}                 1 s
 
 # User credentials
-${USERNAME}                    osanda
-${PASSWORD}                    NoShits!
+${USERNAME}                    marriboinarams
+${PASSWORD}                    Rams
 
 # Application constants
 ${BROWSER_TAB_TITLE}           My Store
